@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "TimeBound",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TimeBound",
+  "start_url": "/",
+  "theme_color": "#0a0a0a",
+  "id": "Time-Bound2026",
+  "description": "TimeBound is a premium study timer built to enforce time discipline and focused work. It combines the Pomodoro technique with a refined dark design, cloud sync, and task tracking to help users structure their sessions, reduce distractions, and build consistent study habits across devices."
+}
